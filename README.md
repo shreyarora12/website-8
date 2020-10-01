@@ -14,7 +14,7 @@ It is possible to carry out SHA256 and other encryption in a standard web browse
   
 By using surplus CPU power, huge energy and cost savings could be made over traditional cryptocurrency networks.
   
-As part of this we also offer the ability for users without website to mine JSECoin. They can do this by accessing the JSECoin platform and act as miners through either a Web Browser, Desktop or Mobile App. 
+As a part of this, we also offer the users to mine JSECoin without a website. They can do this by accessing the JSECoin platform and act as miners through either a Web Browser, Desktop or Mobile App. 
   
 # JSE Website
 
@@ -55,7 +55,7 @@ Or Try out VUE UI - `vue ui` and from tasks select build - 'Run task'
 1. Remember to update `./vue.config.js` with any new additional routes to generate static html and paths with PrerenderSpaPlugin.
 
 ## Bug Bounty
-This is an initial push - alot of cleanup is still required if you spot an issue please report it and if we consider it a major issue we will credit your account as part of our bug bounty offering.
+This is an initial push - alot of clean-up is still required, if you spot an issue please report it and if we consider it a major issue we will credit your account as part of our bug bounty offering.
 [Bug Bounty Info Page](https://jsecoin.com/en/oddJobs/bugBounty)
 
 ## Contribute
